@@ -1,3 +1,2 @@
 # Sentiment-analysis--RNN-TF-IDF-Vectorizer
-By using RNN final acuracy is
-Accuracy: 79.90%
+By using RNN final acuracy is 79.90%
